@@ -1,7 +1,16 @@
 # AvaLokan
+
 ## "Discover the World Through Images - AvaLokan:Your Visual Gateway"
 
-This is an Image searching website , which helps you to discover the world through Images
+AvaLokan is your visual gateway to discovering the world through captivating images. Our image searching website is designed to provide you with an immersive experience, allowing you to explore diverse cultures, landscapes, and moments captured in stunning photographs. 
+
+With AvaLokan, you can effortlessly search for images based on keywords, themes, or categories, making it easy to find exactly what you're looking for.
+
+Our platform offers a vast collection of high-quality images sourced from talented photographers and content creators worldwide. From breathtaking natural wonders to vibrant cityscapes, cultural festivals, wildlife encounters, and more, AvaLokan invites you to immerse yourself in the visual splendor of our diverse planet.
+
+Experience the power of imagery with AvaLokan and embark on a visual journey unlike any other.
+
+
 
 An overview : 
 
