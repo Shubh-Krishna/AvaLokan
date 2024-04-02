@@ -1,6 +1,8 @@
 # AvaLokan
 ## "Discover the World Through Images - AvaLokan:Your Visual Gateway"
 
+This is an Image searching website , which helps you to discover the world through Images
+
 An overview : 
 
 ![image](https://github.com/Shubh-Krishna/AvaLokan/assets/135266175/e4b16551-1aac-4233-9089-69822c520e2c)
